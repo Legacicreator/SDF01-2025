@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo Project 🚀
+# My First Repo Project 🚀
 
 # 👋 Hi, I'm Yasser De Silva
 
